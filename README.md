@@ -1,8 +1,7 @@
 # Voice Interactive Knowledge Interface 2.O (VIKI 2.O)
 
 ## Whats New
-### This application is integrated with an AI assistant that enhances user experience by providing intelligent support and automation. It can understand user input, respond with relevant information, and perform various tasks efficiently. With AI integration, the system becomes more interactive, responsive, and capable of handling complex queries in real-time.
-
+### Now, Viki is integrated with an advanced AI assistant that significantly enhances the user experience by offering intelligent support and seamless automation. It understands user input, delivers accurate responses, and efficiently performs various tasks. This integration makes the system more interactive, responsive, and capable of managing complex queries in real time.
 
 
 # 
