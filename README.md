@@ -3,6 +3,9 @@
 ## Whats New
 ### This application is integrated with an AI assistant that enhances user experience by providing intelligent support and automation. It can understand user input, respond with relevant information, and perform various tasks efficiently. With AI integration, the system becomes more interactive, responsive, and capable of handling complex queries in real-time.
 
+
+
+# 
 Viki is a versatile voice assistant built with Python, featuring speech recognition, text-to-speech capabilities, integration with OpenAI , web Browse, application launching, and a dynamic graphical user interface. Users can interact with Viki through voice commands or by typing, manage custom application mappings, and even use webcam functionalities for recording and photo capture.
 
 ## Features
